@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "582008523537",
+    "firebase_url": "https://relaycontrol-615e7.firebaseio.com",
+    "project_id": "relaycontrol-615e7",
+    "storage_bucket": "relaycontrol-615e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582008523537:android:5234dd2c0509208cd25ab0",
+        "android_client_info": {
+          "package_name": "com.example.relay_control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582008523537-u4at4tm7ss05av2e1qiug6jte73stthh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMECUYsYKlqijCvHBeoPdrHBavxgrfO6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582008523537-u4at4tm7ss05av2e1qiug6jte73stthh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
